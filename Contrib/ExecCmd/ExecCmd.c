@@ -20,7 +20,7 @@
 #include <stdio.h>
 #include <io.h>
 #include <sys\stat.h>
-#include "..\ExDll\exdll.h"
+#include "exdll.h"
 
 enum ERROR_CODES {
    ERR_CREATEPROC = -5,
